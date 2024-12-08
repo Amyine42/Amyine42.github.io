@@ -1,4 +1,4 @@
-# IA_Reactive
+# IA_Reactive (El ayoubi Mohamed amine)
 ## Mini projet : Simulation d'un système de vaisseaux en serpent et de missiles intelligents dans un environnement
 
 
